@@ -1,7 +1,7 @@
 {
   "name": "products-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Rest API",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir build",
@@ -9,7 +9,7 @@
     "start": "node build/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "t1t0",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
